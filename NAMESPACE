@@ -1,0 +1,5 @@
+useDynLib(CpmLogLogisticPMITICS, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+import(roptim)
+import(progress)
+exportPattern("^[[:alpha:]]+")

@@ -1,0 +1,21 @@
+Package: CpmLogLogisticPMITICS
+Type: Package
+Title: What the Package Does (Short Line)
+Version: 0.1.0
+Encoding: UTF-8
+LazyData: true
+Imports:
+    Rcpp,
+    RcppArmadillo,
+    RcppEigen,
+    RcppNumerical,
+    RcppProgress,
+    roptim
+LinkingTo:
+    Rcpp,
+    RcppArmadillo,
+    RcppEigen,
+    RcppNumerical,
+    RcppProgress,
+    roptim
+RoxygenNote: 7.3.3
